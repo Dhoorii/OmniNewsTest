@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniNews</string>
+    <string name="searchHint">Text to search</string>
+    <string name="radioArticle">Article</string>
+    <string name="radioTopic">Topic</string>
+    <string name="search">Search</string>
+</resources>
